@@ -1,10 +1,10 @@
 gastly
 haunter
 gengar
-marowak-alola
-typhlosion-hisui
+marowak-oalola;ALOLAN MAROWAK
+typhlosion-ohisui;HISUIAN TYPHLOSION
 misdreavus
-corsola-galar
+corsola-ogalar;GALARIAN CORSOLA
 shedinja
 sableye
 shuppet
@@ -20,10 +20,10 @@ dusknoir
 froslass
 rotom
 yamask
-yamask-galar
+yamask-ogalar;GALARIAN YAMASK
 cofagrigus
-zorua-hisui
-zoroark-hisui
+zorua-ohisui;HISUIAN ZORUA
+zoroark-ohisui;HISUIAN ZOROARK
 frillish
 jellicent
 litwick

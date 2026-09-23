@@ -4,12 +4,12 @@ poliwrath
 machop
 machoke
 machamp
-farfetchd-galar
+farfetchd-ogalar;GALARIAN FARFETCH'D
 hitmonlee
 hitmonchan
-tauros-combat
+tauros-opaldea_combat;PALDEAN TAUROS
 heracross
-sneasel-hisui
+sneasel-ohisui;HISUIAN SNEASEL
 tyrogue
 hitmontop
 combusken
@@ -33,7 +33,7 @@ gurdurr
 conkeldurr
 throh
 sawk
-lilligant-hisui
+lilligant-ohisui;HISUIAN LILLIGANT
 scraggy
 scrafty
 mienfoo
@@ -42,17 +42,17 @@ chesnaught
 pancham
 pangoro
 hawlucha
-decidueye-hisui
+decidueye-ohisui;HISUIAN DECIDUEYE
 crawbrawler
 crabominable
 stufful
 bewear
 passimian
-hakamo-o
-kommo-o
+hakamo_o;HAKAMO-O
+kommo_o;KOMMO-O
 clobbopus
 grapploct
-sirfetchd
+sirfetchd;SIRFETCH'D
 falinks
 sneasler
 quaquaval

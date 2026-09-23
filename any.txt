@@ -1,231 +1,231 @@
-bulbasaur;BULBASAUR
-ivysaur;IVYSAUR
-venusaur;VENUSAUR
-charmander;CHARMANDER
-charmeleon;CHARMELEON
-charizard;CHARIZARD
-squirtle;SQUIRTLE
-wartortle;WARTORTLE
-blastoise;BLASTOISE
-caterpie;CATERPIE
-metapod;METAPOD
-butterfree;BUTTERFREE
-weedle;WEEDLE
-kakuna;KAKUNA
-beedrill;BEEDRILL
-pidgey;PIDGEY
-pidgeotto;PIDGEOTTO
-pidgeot;PIDGEOT
-rattata;RATTATA
-raticate;RATICATE
-spearow;SPEAROW
-fearow;FEAROW
-ekans;EKANS
-arbok;ARBOK
-pikachu;PIKACHU
-raichu;RAICHU
-sandshrew;SANDSHREW
-sandslash;SANDSLASH
+bulbasaur
+ivysaur
+venusaur
+charmander
+charmeleon
+charizard
+squirtle
+wartortle
+blastoise
+caterpie
+metapod
+butterfree
+weedle
+kakuna
+beedrill
+pidgey
+pidgeotto
+pidgeot
+rattata
+raticate
+spearow
+fearow
+ekans
+arbok
+pikachu
+raichu
+sandshrew
+sandslash
 nidoran_f;NIDORAN♀
-nidorina;NIDORINA
-nidoqueen;NIDOQUEEN
+nidorina
+nidoqueen
 nidoran_m;NIDORAN♂︎
-nidorino;NIDORINO
-nidoking;NIDOKING
-clefairy;CLEFAIRY
-clefable;CLEFABLE
-vulpix;VULPIX
-ninetales;NINETALES
-jigglypuff;JIGGLYPUFF
-wigglytuff;WIGGLYTUFF
-zubat;ZUBAT
-golbat;GOLBAT
-oddish;ODDISH
-gloom;GLOOM
-vileplume;VILEPLUME
-paras;PARAS
-parasect;PARASECT
-venonat;VENONAT
-venomoth;VENOMOTH
-diglett;DIGLETT
-dugtrio;DUGTRIO
-meowth;MEOWTH
-persian;PERSIAN
-psyduck;PSYDUCK
-golduck;GOLDUCK
-mankey;MANKEY
-primeape;PRIMEAPE
-growlithe;GROWLITHE
-arcanine;ARCANINE
-poliwag;POLIWAG
-poliwhirl;POLIWHIRL
-poliwrath;POLIWRATH
-abra;ABRA
-kadabra;KADABRA
-alakazam;ALAKAZAM
-machop;MACHOP
-machoke;MACHOKE
-machamp;MACHAMP
-bellsprout;BELLSPROUT
-weepinbell;WEEPINBELL
-victreebel;VICTREEBEL
-tentacool;TENTACOOL
-tentracruel;TENTACRUEL
-geodude;GEODUDE
-graveler;GRAVELER
-golem;GOLEM
-ponyta;PONYTA
-rapidash;RAPIDASH
-slowpoke;SLOWPOKE
-slowbro;SLOWBRO
-magnemite;MAGNEMITE
-magneton;MAGNETON
+nidorino
+nidoking
+clefairy
+clefable
+vulpix
+ninetales
+jigglypuff
+wigglytuff
+zubat
+golbat
+oddish
+gloom
+vileplume
+paras
+parasect
+venonat
+venomoth
+diglett
+dugtrio
+meowth
+persian
+psyduck
+golduck
+mankey
+primeape
+growlithe
+arcanine
+poliwag
+poliwhirl
+poliwrath
+abra
+kadabra
+alakazam
+machop
+machoke
+machamp
+bellsprout
+weepinbell
+victreebel
+tentacool
+tentracruel
+geodude
+graveler
+golem
+ponyta
+rapidash
+slowpoke
+slowbro
+magnemite
+magneton
 farfetchd;FARFETCH'D
-doduo;DODUO
-dodrio;DODRIO
-seel;SEEL
-dewgong;DEWGONG
-grimer;GRIMER
-muk;MUK
-shellder;SHELLDER
-cloyster;CLOYSTER
-gastly;GASTLY
-haunter;HAUNTER
-gengar;GENGAR
-onix;ONIX
-drowzee;DROWZEE
-hypno;HYPNO
-krabby;KRABBY
-kingler;KINGLER
-voltorb;VOLTORB
-electrode;ELECTRODE
-exeggcute;EXEGGCUTE
-exeggutor;EXEGGUTOR
-cubone;CUBONE
-marowak;MAROWAK
-hitmonlee;HITMONLEE
-hitmonchan;HITMONCHAN
-lickitung;LICKITUNG
-koffing;KOFFING
-weezing;WEEZING
-rhyhorn;RHYHORN
-rhydon;RHYDON
-chansey;CHANSEY
-tangela;TANGELA
-kangaskhan;KANGASKHAN
-horsea;HORSEA
-seadra;SEADRA
-goldeen;GOLDEEN
-seaking;SEAKING
-staryu;STARYU
-starmie;STARMIE
+doduo
+dodrio
+seel
+dewgong
+grimer
+muk
+shellder
+cloyster
+gastly
+haunter
+gengar
+onix
+drowzee
+hypno
+krabby
+kingler
+voltorb
+electrode
+exeggcute
+exeggutor
+cubone
+marowak
+hitmonlee
+hitmonchan
+lickitung
+koffing
+weezing
+rhyhorn
+rhydon
+chansey
+tangela
+kangaskhan
+horsea
+seadra
+goldeen
+seaking
+staryu
+starmie
 mr_mime;MR MIME
-scyther;SCYTHER
-jynx;JYNX
-electabuzz;ELECTABUZZ
-magmar;MAGMAR
-pinsir;PINSIR
-tauros;TAUROS
-magikarp;MAGIKARP
-gyarados;GYARADOS
-lapras;LAPRAS
-ditto;DITTO
-eevee;EEVEE
-vaporeon;VAPOREON
-jolteon;JOLTEON
-flareon;FLAREON
-porygon;PORYGON
-omanyte;OMANYTE
-omastar;OMASTAR
-kabuto;KABUTO
-kabutops;KABUTOPS
-aerodactyl;AERODACTYL
-snorlax;SNORLAX
-dratini;DRATINI
-dragonair;DRAGONAIR
-dragonite;DRAGONITE
-chikorita;CHIKORITA
-bayleef;BAYLEEF
-meganium;MEGANIUM
-cyndaquil;CYNDAQUIL
-quilava;QUILAVA
-typhlosion;TYPHLOSION
-totodile;TOTODILE
-croconaw;CROCONAW
-feraligatr;FERALIGATR
-sentret;SENTRET
-furret;FURRET
-hoothoot;HOOTHOOT
-noctowl;NOCTOWL
-ledyba;LEDYBA
-ledian;LEDIAN
-spinarak;SPINARAK
-ariados;ARIADOS
-crobat;CROBAT
-chinchou;CHINCHOU
-lanturn;LANTURN
-pichu;PICHU
-cleffa;CLEFFA
-igglybuff;IGGLYBUFF
-togepi;TOGEPI
-togetic;TOGETIC
-natu;NATU
-xatu;XATU
-mareep;MAREEP
-flaaffy;FLAAFFY
-ampharos;AMPHAROS
-bellossom;BELLOSSOM
-marill;MARILL
-azumarill;AZUMARILL
-sudowoodo;SUDOWOODO
-politoed;POLITOED
-hoppip;HOPPIP
-skiploom;SKIPLOOM
-jumpluff;JUMPLUFF
-aipom;AIPOM
-sunkern;SUNKERN
-sunflora;SUNFLORA
-yanma;YANMA
-wooper;WOOPER
-quagsire;QUAGSIRE
-espeon;ESPEON
-umbreon;UMBREON
-murkrow;MURKROW
-slowking;SLOWKING
-misdreavus;MISDREAVUS
-unown;UNOWN
-wobbuffet;WOBBUFFET
-girafarig;GIRAFARIG
-pineco;PINECO
-forretress;FORRETRESS
-dunsparce;DUNSPARCE
-gligar;GLIGAR
-steelix;STEELIX
-snubbull;SNUBBULL
-granbull;GRANBULL
-qwilfish;QWILFISH
-scizor;SCIZOR
-shuckle;SHUCKLE
-heracross;HERACROSS
-sneasel;SNEASEL
-teddiursa;TEDDIURSA
-ursaring;URSARING
-slugma;SLUGMA
-magcargo;MAGCARGO
-swinub;SWINUB
-piloswine;PILOSWINE
-corsola;CORSOLA
-remoraid;REMORAID
-octillery;OCTILLERY
-delibird;DELIBIRD
-mantine;MANTINE
-skarmory;SKARMORY
-houndour;HOUNDOUR
-houndoom;HOUNDOOM
-kingdra;KINGDRA
-phanpy;PHANPY
-donphan;DONPHAN
-porygon2;PORYGON2
+scyther
+jynx
+electabuzz
+magmar
+pinsir
+tauros
+magikarp
+gyarados
+lapras
+ditto
+eevee
+vaporeon
+jolteon
+flareon
+porygon
+omanyte
+omastar
+kabuto
+kabutops
+aerodactyl
+snorlax
+dratini
+dragonair
+dragonite
+chikorita
+bayleef
+meganium
+cyndaquil
+quilava
+typhlosion
+totodile
+croconaw
+feraligatr
+sentret
+furret
+hoothoot
+noctowl
+ledyba
+ledian
+spinarak
+ariados
+crobat
+chinchou
+lanturn
+pichu
+cleffa
+igglybuff
+togepi
+togetic
+natu
+xatu
+mareep
+flaaffy
+ampharos
+bellossom
+marill
+azumarill
+sudowoodo
+politoed
+hoppip
+skiploom
+jumpluff
+aipom
+sunkern
+sunflora
+yanma
+wooper
+quagsire
+espeon
+umbreon
+murkrow
+slowking
+misdreavus
+unown
+wobbuffet
+girafarig
+pineco
+forretress
+dunsparce
+gligar
+steelix
+snubbull
+granbull
+qwilfish
+scizor
+shuckle
+heracross
+sneasel
+teddiursa
+ursaring
+slugma
+magcargo
+swinub
+piloswine
+corsola
+remoraid
+octillery
+delibird
+mantine
+skarmory
+houndour
+houndoom
+kingdra
+phanpy
+donphan
+porygon2
 stantler
 smeargle
 tyrogue
@@ -450,7 +450,7 @@ leafeon
 glaceon
 gliscor
 mamoswine
-porygon-z
+porygon_z;PORYGON-Z
 gallade
 probopass
 dusknoir
@@ -725,9 +725,9 @@ mimikyu
 bruxish
 drampa
 dhelmise
-jangmo-o
-hakamo-o
-kommo-o
+jangmo_o;JANGMO-O
+hakamo_o;HAKAMO-O
+kommo_o;KOMMO-O
 grookey
 thwackey
 rillaboom
@@ -783,8 +783,8 @@ grimmsnarl
 obstagoon
 perrserker
 cursola
-sirfetch-d
-mr rime
+sirfetchd;SIRFETCH'D
+mr_rime;MR RIME
 runerigus
 milcery
 alcremie
@@ -900,54 +900,54 @@ poltchageist
 sinistcha
 archaludon
 hydrapple
-rattata-alola
-raticate-alola
-meowth-alola
-persian-alola
-grimer-alola
-muk-alola
-qwilfish-hisui
-zigzagoon-galar
-linoone-galar
-samurott-hisui
-exeggutor-alola
-sliggoo-hisui
-goodra-hisui
-raichu-alola
-geodude-alola
-graveler-alola
-golem-alola
-voltorb-hisui
-electrode-hisui
-ninetales-alola
-rapidash-galar
-weezing-galar
-farfetchd-galar
-tauros-combat
-sneasel-hisui
-lilligant-hisui
-decidueye-hisui
-growlithe-hisui
-arcanine-hisui
-marowak-alola
-typhlosion-hisui
-braviary-hisui
-yamask-galar
-zorua-hisui
-zoroark-hisui
-diglett-alola
-dugtrio-alola
-stunfisk-galar
-sandshrew-alola
-sandslash-alola
-vulpix-alola
-mr mime-galar
-darumaka-galar
-darmanitan-galar
-avalugg-hisui
-slowbro-galar
-wooper-paldea
-slowking-galar
-ponyta-galar
-slowpoke-galar
-meowth-galar
+rattata-oalola;ALOLAN RATTATA
+raticate-oalola;ALOLAN RATICATE
+meowth-oalola;ALOLAN MEOWTH
+persian-oalola;ALOLAN PERSIAN
+grimer-oalola;ALOLAN GRIMER
+muk-oalola;ALOLAN MUK
+qwilfish-ohisui;HISUIAN QWILFISH
+zigzagoon-ogalar;GALARIAN ZIGZAGOON
+linoone-ogalar;GALARIAN LINOONE
+samurott-ohisui;HISUIAN SAMUROTT
+exeggutor-oalola;ALOLAN EXEGGUTOR
+sliggoo-ohisui;HISUIAN SLIGGOO
+goodra-ohisui;HISUIAN GOODRA
+raichu-oalola;ALOLAN RAICHU
+geodude-oalola;ALOLAN GEODUDE
+graveler-oalola;ALOLAN GRAVELER
+golem-oalola;ALOLAN GOLEM
+voltorb-ohisui;HISUIAN VOLTORB
+electrode-ohisui;HISUIAN ELECTRODE
+ninetales-oalola;ALOLAN NINETALES
+rapidash-ogalar;GALARIAN RAPIDASH
+weezing-ogalar;GALARIAN WEEZING
+farfetchd-ogalar;GALARIAN FARFETCH'D
+tauros-opaldea_combat;PALDEAN TAUROS
+sneasel-ohisui;HISUIAN SNEASEL
+lilligant-ohisui;HISUIAN LILLIGANT
+decidueye-ohisui;HISUIAN DECIDUEYE
+growlithe-ohisui;HISUIAN GROWLITHE
+arcanine-ohisui;HISUIAN ARCANINE
+marowak-oalola;ALOLAN MAROWAK
+typhlosion-ohisui;HISUIAN TYPHLOSION
+braviary-ohisui;HISUIAN BRAVIARY
+yamask-ogalar;GALARIAN YAMASK
+zorua-ohisui;HISUIAN ZORUA
+zoroark-ohisui;HISUIAN ZOROARK
+diglett-oalola;ALOLAN DIGLETT
+dugtrio-oalola;ALOLAN DUGTRIO
+stunfisk-ogalar;GALARAN STUNFISK
+sandshrew-oalola;ALOLAN SANDSHREW
+sandslash-oalola;ALOLAN SANDSLASH
+vulpix-oalola;ALOLAN VULPIX
+mr_mime-ogalar;GALARIAN MR MIME
+darumaka-ogalar;GALARIAN DARUMAKA
+darmanitan-ogalar;GALARIAN DARMANITAN
+avalugg-ohisui;HISUIAN AVALUGG
+slowbro-ogalar;GALARIAN SLOWBRO
+wooper-opaldea;PALDEAN WOOPER
+slowking-ogalar;GALARIAN SLOWKING
+ponyta-ogalar;GALARIAN PONYTA
+slowpoke-ogalar;GALARIAN SLOWPOKE
+meowth-ogalar;GALARIAN MEOWTH

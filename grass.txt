@@ -9,11 +9,11 @@ parasect
 bellsprout
 weepinbell
 victreebel
-voltorb-hisui
-electrode-hisui
+voltorb-ohisui;HISUIAN VOLTORB
+electrode-ohisui;HISUIAN ELECTRODE
 exeggcute
 exeggutor
-exeggutor-alola
+exeggutor-oalola;ALOLAN EXEGGUTOR
 tangela
 chikorita
 bayleef
@@ -65,7 +65,7 @@ cottonee
 whimsicott
 petilil
 lilligant
-lilligant-hisui
+lilligant-ohisui;HISUIAN LILLIGANT
 maractus
 deerling
 sawsbuck
@@ -85,7 +85,7 @@ gourgeist
 rowlet
 dartrix
 decidueye
-decidueye-hisui
+decidueye-ohisui;HISUIAN DECIDUEYE
 fomantis
 lurantis
 morelull

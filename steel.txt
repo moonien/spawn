@@ -1,8 +1,8 @@
-sandshrew-alola
-sandslash-alola
-diglett-alola
-dugtrio-alola
-meowth-galar
+sandshrew-oalola;ALOLAN SANDSHREW
+sandslash-oalola;ALOLAN SANDSLASH
+diglett-oalola;ALOLAN DIGLETT
+dugtrio-oalola;ALOLAN DUGTRIO
+meowth-ogalar;GALARIAN MEOWTH
 magnemite
 magneton
 forretress
@@ -31,15 +31,15 @@ ferrothorn
 klink
 klang
 klinklang
-stunfisk-galar
+stunfisk-ogalar;GALARIAN STUNFISK
 pawniard
 bisharp
 durant
 honedge
 doublade
 aegislash
-sliggoo-hisui
-goodra-hisui
+sliggoo-ohisui;HISUIAN SLIGGOO
+goodra-ohisui;HISUIAN GOODRA
 klefki
 togedemaru
 corviknight

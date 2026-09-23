@@ -1,11 +1,11 @@
 clefairy
 clefable
-ninetales-alola
+ninetales-alola;ALOLAN NINETALES
 jigglypuff
 wigglytuff
-rapidash-galar
-weezing-galar
-mr mime
+rapidash-galar;GALARIAN RAPIDASH
+weezing-galar;GALARIAN WEEZING
+mr_mime;MR MIME
 cleffa
 igglybuff
 togepi
@@ -19,11 +19,11 @@ kirlia
 gardevoir
 azurill
 mawile
-mime jr
+mime_jr;MIME JR
 togekiss
 cottonee
 whimsicott
-flabebe
+flabebe;FLABÉBÉ
 floette
 florges
 spritzee

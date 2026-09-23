@@ -88,7 +88,7 @@ mantyke
 oshawott
 dewott
 samurott
-samurott-hisui
+samurott-ohisui;HISUIAN SAMUROTT
 panpour
 simipour
 tympole

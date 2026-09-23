@@ -1,20 +1,20 @@
-rattata-alola;ALOLAN RATTATA
-raticate-alola;ALOLAN RATICATE
-meowth-alola;ALOLAN MEOWTH
-persian-alola;ALOLAN PERSIAN
-grimer-alola;ALOLAN GRIMER
-muk-alola;ALOLAN MUK
+rattata-oalola;ALOLAN RATTATA
+raticate-oalola;ALOLAN RATICATE
+meowth-oalola;ALOLAN MEOWTH
+persian-oalola;ALOLAN PERSIAN
+grimer-oalola;ALOLAN GRIMER
+muk-oalola;ALOLAN MUK
 umbreon
 murkrow
-qwilfish-hisui;HISUIAN QWILFISH
+qwilfish-ohisui;HISUIAN QWILFISH
 sneasel
 houndour
 houndoom
 tyranitar
 poochyena
 mightyena
-zigzagoon-galar;GALARIAN ZIGZAGOON
-linoone-galar;GALARIAN LINOONE
+zigzagoon-ogalar;GALARIAN ZIGZAGOON
+linoone-ogalar;GALARIAN LINOONE
 nuzleaf
 shiftry
 sableye
@@ -29,7 +29,7 @@ skuntank
 spiritomb
 drapion
 weavile
-samurott-hisui;HISUIAN SAMUROTT
+samurott-ohisui;HISUIAN SAMUROTT
 purrloin
 liepard
 sandile

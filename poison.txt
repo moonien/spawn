@@ -6,10 +6,10 @@ kakuna
 beedrill
 ekans
 arbok
-nidoran-f
+nidoran_f;NIDORAN♀
 nidorina
 nidoqueen
-nidoran-m
+nidoran_m;NIDORAN♂︎
 nidorino
 nidoking
 zubat
@@ -24,25 +24,25 @@ weepinbell
 victreebel
 tentacool
 tentacruel
-slowbro-galar
+slowbro-ogalar;GALARIAN SLOWBRO
 grimer
-grimer-alola
+grimer-oalola;ALOLAN GRIMER
 muk
-muk-alola
+muk-oalola;ALOLAN MUK
 gastly
 haunter
 gengar
 koffing
 weezing
-weezing-galar
+weezing-ogalar;GALARIAN WEEZING
 spinarak
 ariados
 crobat
-wooper-paldea
-slowking-galar
+wooper-opaldea;PALDEAN WOOPER
+slowking-ogalar;GALARIAN SLOWKING
 qwilfish
-qwilfish-hisui
-sneasel-hisui
+qwilfish-ohisui;HISUIAN QWILFISH
+sneasel-ohisui;HISUIAN SNEASEL
 dustox
 roselia
 gulpin

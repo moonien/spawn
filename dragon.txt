@@ -1,4 +1,4 @@
-exeggutor-alola;ALOLAN EXEGGUTOR
+exeggutor-oalola;ALOLAN EXEGGUTOR
 dratini
 dragonair
 dragonite
@@ -24,9 +24,9 @@ tyrunt
 tyrantrum
 goomy
 sliggoo
-sliggoo-hisui;HISUIAN SLIGGOO
+sliggoo-ohisui;HISUIAN SLIGGOO
 goodra
-goodra-hisui;HISUIAN GOODRA
+goodra-ohisui;HISUIAN GOODRA
 noibat
 noivern
 turtonator

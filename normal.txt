@@ -2,16 +2,16 @@ pidgey
 pidgeotto
 pidgeot
 rattata
-rattata-alola
+rattata-oalola;ALOLAN RATTATA
 raticate
-raticate-alola
+raticate-oalola;ALOLAN RATICATE
 spearow
 fearow
 jigglypuff
 wigglytuff
 meowth
 persian
-farfech'd
+farfechd
 doduo
 dodrio
 lickitung
@@ -37,9 +37,9 @@ smeargle
 miltank
 blissey
 zigzagoon
-zigzagoon-galar
+zigzagoon-ogalar;GALARIAN ZIGZAGOON
 linoone
-linoone-galar
+linoone-ogalar;GALARIAN LINOONE
 taillow
 swellow
 slakoth
@@ -69,7 +69,7 @@ happiny
 chatot
 munchlax
 lickilicky
-porygon-z
+porygon_z;PORYGON-Z
 patrat
 watchog
 lillipup
@@ -79,8 +79,8 @@ pidove
 tranquill
 unfezant
 audino
-zorua-hisui
-zoroark-hisui
+zorua-ohisui;HISUIAN ZORUA
+zoroark-ohisui;HISUIAN ZOROARK
 minccino
 cinccino
 deerling

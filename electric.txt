@@ -1,15 +1,15 @@
 pikachu
 raichu
-raichu-alola
-geodude-alola
-graveler-alola
-golem-alola
+raichu-alola;ALOLAN RAICHU
+geodude-alola;ALOLAN GEODUDE
+graveler-alola;ALOLAN GRAVELER
+golem-alola;ALOLAN GOLEM
 magnemite
 magneton
 voltorb
-voltorb-hisui
+voltorb-hisui;HISUIAN VOLTORB
 electrode
-electrode-hisui
+electrode-hisui;HISUIAN ELECTRODE
 electabuzz
 jolteon
 chinchou

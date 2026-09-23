@@ -3,9 +3,9 @@ sandslash
 nidoqueen
 nidoking
 diglett
-diglett-alola
+diglett-oalola;ALOLAN DIGLETT
 dugtrio
-dugtrio-alola
+dugtrio-oalola;ALOLAN DUGTRIO
 geodude
 graveler
 golem
@@ -53,9 +53,9 @@ seismitoad
 sandile
 krokorok
 krookodile
-yamask-galar
+yamask-ogalar;GALARIAN YAMASK
 stunfisk
-stunfisk-galar
+stunfisk-ogalar;GALARIAN STUNFISK
 golett
 golurk
 diggersby

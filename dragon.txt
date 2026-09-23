@@ -1,4 +1,4 @@
-exeggutor-alola
+exeggutor-alola;ALOLAN EXEGGUTOR
 dratini
 dragonair
 dragonite
@@ -24,16 +24,16 @@ tyrunt
 tyrantrum
 goomy
 sliggoo
-sliggoo-hisui
+sliggoo-hisui;HISUIAN SLIGGOO
 goodra
-goodra-hisui
+goodra-hisui;HISUIAN GOODRA
 noibat
 noivern
 turtonator
 drampa
-jangmo-o
-hakomo-o
-kommo-o
+jangmo_o;JANGMO-O
+hakamo_o;HAKAMO-O
+kommo_o;KOMMO-O
 applin
 flapple
 appletun

@@ -1,21 +1,20 @@
-dark: 65.
-rattata-alola
-raticate-alola
-meowth-alola
-persian-alola
-grimer-alola
-muk-alola
+rattata-alola;ALOLAN RATTATA
+raticate-alola;ALOLAN RATICATE
+meowth-alola;ALOLAN MEOWTH
+persian-alola;ALOLAN PERSIAN
+grimer-alola;ALOLAN GRIMER
+muk-alola;ALOLAN MUK
 umbreon
 murkrow
-qwilfish-hisui
+qwilfish-hisui;HISUIAN QWILFISH
 sneasel
 houndour
 houndoom
 tyranitar
 poochyena
 mightyena
-zigzagoon-galar
-linoone-galar
+zigzagoon-galar;GALARIAN ZIGZAGOON
+linoone-galar;GALARIAN LINOONE
 nuzleaf
 shiftry
 sableye
@@ -30,7 +29,7 @@ skuntank
 spiritomb
 drapion
 weavile
-samurott-hisui
+samurott-hisui;HISUIAN SAMUROTT
 purrloin
 liepard
 sandile

@@ -1,26 +1,26 @@
-raichu-alola
+raichu-oalola;ALOLAN RAICHU
 abra
 kadabra
 alakazam
-ponyta-galar
-rapidash-galar
+ponyta-ogalar;GALARIAN PONYTA
+rapidash-ogalar;GALARIAN RAPIDASH
 slowpoke
-slowpoke-galar
+slowpoke-ogalar;GALARIAN SLOWPOKE
 slowbro
-slowbro-galar
+slowbro-ogalar;GALARIAN SLOWBRO
 drowzee
 hypno
 exeggcute
 exeggutor
 starmie
-mr mime
-mr mime-galar
+mr_mime;MR MIME
+mr_mime-ogalar;GALARIAN MR MIME
 jynx
 natu
 xatu
 espeon
 slowking
-slowking-galar
+slowking-ogalar;GALARIAN SLOWKING
 unown
 wobbuffet
 girafarig
@@ -44,7 +44,7 @@ metagross
 chingling
 bronzor
 bronzong
-mime jr
+mime_jr;MIME JR
 gallade
 munna
 musharna
@@ -59,7 +59,7 @@ duosion
 reuniclus
 elgyem
 beheeyem
-braviary-hisui
+braviary-ohisui;HISUIAN BRAVIARY
 delphox
 espurr
 meowstic
@@ -72,7 +72,7 @@ orbeetle
 hatenna
 hattrem
 hatterene
-mr rime
+mr_rime;MR RIME
 indeedee
 wyrdeer
 armarouge

@@ -11,7 +11,7 @@ jigglypuff
 wigglytuff
 meowth
 persian
-farfechd
+farfechd;FARFETCH'D
 doduo
 dodrio
 lickitung

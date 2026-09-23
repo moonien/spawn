@@ -1,11 +1,11 @@
-growlithe-hisui
-arcanine-hisui
+growlithe-ohisui;HISUIAN GROWLITHE
+arcanine-ohisui;HISUIAN ARCANINE
 geodude
-geodude-alola
+geodude-oalola;ALOLAN GEODUDE
 graveler
-graveler-alola
+graveler-oalola;ALOLAN GRAVELER
 golem
-golem-alola
+golem-oalola;ALOLAN GOLEM
 onix
 rhyhorn
 rhydon
@@ -55,7 +55,7 @@ tyrantrum
 amaura
 aurorus
 carbink
-avalugg-hisui
+avalugg-ohisui;HISUIAN AVALUGG
 rockruff
 lycanroc
 minior

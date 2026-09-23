@@ -4,18 +4,18 @@ charizard
 vulpix
 ninetales
 growlithe
-growlithe-hisui
+growlithe-ohisui;HISUIAN GROWLITHE
 arcanine
-arcanine-hisui
+arcanine-ohisui;HISUIAN ARCANINE
 ponyta
 rapidash
-marowak-alola
+marowak-oalola;ALOLAN MAROWAK
 magmar
 flareon
 cyndaquil
 quilava
 typhlosion
-typhlosion-hisui
+typhlosion-ohisui;HISUIAN TYPHLOSION
 slugma
 magcargo
 houndour

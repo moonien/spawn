@@ -1,10 +1,10 @@
 clefairy
 clefable
-ninetales-alola;ALOLAN NINETALES
+ninetales-oalola;ALOLAN NINETALES
 jigglypuff
 wigglytuff
-rapidash-galar;GALARIAN RAPIDASH
-weezing-galar;GALARIAN WEEZING
+rapidash-ogalar;GALARIAN RAPIDASH
+weezing-ogalar;GALARIAN WEEZING
 mr_mime;MR MIME
 cleffa
 igglybuff

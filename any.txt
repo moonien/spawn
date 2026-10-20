@@ -70,7 +70,7 @@ bellsprout
 weepinbell
 victreebel
 tentacool
-tentracruel
+tentacruel
 geodude
 graveler
 golem

@@ -11,7 +11,7 @@ shuppet
 banette
 duskull
 dusclops
-absol
+sinistcha
 drifloon
 drifblim
 mismagius
@@ -61,4 +61,3 @@ annihilape
 gimmighoul
 gholdengo
 poltchageist
-sinistcha
